@@ -1,0 +1,16 @@
+C:\Users\arian\source\repos\SystemModeling\Task3\bin\Debug\netcoreapp3.1\Task3.exe
+C:\Users\arian\source\repos\SystemModeling\Task3\bin\Debug\netcoreapp3.1\Task3.deps.json
+C:\Users\arian\source\repos\SystemModeling\Task3\bin\Debug\netcoreapp3.1\Task3.runtimeconfig.json
+C:\Users\arian\source\repos\SystemModeling\Task3\bin\Debug\netcoreapp3.1\Task3.runtimeconfig.dev.json
+C:\Users\arian\source\repos\SystemModeling\Task3\bin\Debug\netcoreapp3.1\Task3.dll
+C:\Users\arian\source\repos\SystemModeling\Task3\bin\Debug\netcoreapp3.1\Task3.pdb
+C:\Users\arian\source\repos\SystemModeling\Task3\bin\Debug\netcoreapp3.1\OxyPlot.dll
+C:\Users\arian\source\repos\SystemModeling\Task3\bin\Debug\netcoreapp3.1\OxyPlot.Pdf.dll
+C:\Users\arian\source\repos\SystemModeling\Task3\obj\Debug\netcoreapp3.1\Task3.csprojAssemblyReference.cache
+C:\Users\arian\source\repos\SystemModeling\Task3\obj\Debug\netcoreapp3.1\Task3.AssemblyInfoInputs.cache
+C:\Users\arian\source\repos\SystemModeling\Task3\obj\Debug\netcoreapp3.1\Task3.AssemblyInfo.cs
+C:\Users\arian\source\repos\SystemModeling\Task3\obj\Debug\netcoreapp3.1\Task3.csproj.CoreCompileInputs.cache
+C:\Users\arian\source\repos\SystemModeling\Task3\obj\Debug\netcoreapp3.1\Task3.csproj.CopyComplete
+C:\Users\arian\source\repos\SystemModeling\Task3\obj\Debug\netcoreapp3.1\Task3.dll
+C:\Users\arian\source\repos\SystemModeling\Task3\obj\Debug\netcoreapp3.1\Task3.pdb
+C:\Users\arian\source\repos\SystemModeling\Task3\obj\Debug\netcoreapp3.1\Task3.genruntimeconfig.cache
